@@ -1054,7 +1054,7 @@ DeepL CLI includes built-in retry logic and timeout handling for robust API comm
 - ✅ Works across all DeepL API endpoints
 
 **Retry Behavior Examples:**
-
+llll
 ```bash
 # Network failure - automatically retries up to 3 times
 deepl translate "Hello" --to es
